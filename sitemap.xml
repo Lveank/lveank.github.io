@@ -2,20 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2023-09-05T21:14:12+08:00</lastmod>
+    <loc>https://lveank.github.io/categories/</loc>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-09-05T21:14:12+08:00</lastmod>
+    <loc>https://lveank.github.io/</loc>
   </url><url>
-    <loc>/blog/post/my-second-post/</loc>
-    <lastmod>2023-09-05T21:14:12+08:00</lastmod>
-  </url><url>
-    <loc>/blog/post/my-first-post/</loc>
-    <lastmod>2023-09-05T20:46:57+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://lveank.github.io/tags/</loc>
   </url>
 </urlset>

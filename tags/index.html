@@ -8,16 +8,15 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Tags" />
-<meta property="og:description" content="John Doe&#39;s Personal blog about everything" />
+<meta property="og:description" content="Lveank&#39;s Personal blog about everything" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://lveank.github.io/tags/" />
 
-
 		<meta itemprop="name" content="Tags">
-<meta itemprop="description" content="John Doe&#39;s Personal blog about everything">
+<meta itemprop="description" content="Lveank&#39;s Personal blog about everything">
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Tags"/>
-<meta name="twitter:description" content="John Doe&#39;s Personal blog about everything"/>
+<meta name="twitter:description" content="Lveank&#39;s Personal blog about everything"/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -36,11 +35,13 @@
 		<header class="header">
 	<div class="container header__container">
 		
-	<div class="logo">
+	<div class="logo logo--mixed">
 		<a class="logo__link" href="/" title="Lveank" rel="home">
-			<div class="logo__item logo__text">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/placeholder.png">
+				</div><div class="logo__item logo__text">
 					<div class="logo__title">Lveank</div>
-					
+					<div class="logo__tagline">Lveank&#39;s personal blog</div>
 				</div>
 		</a>
 	</div>
@@ -59,13 +60,32 @@
 
 			</div>
 			
-
+<aside class="sidebar sidebar--left"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="https://lveank.github.io/">
+	</form>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/trap-in-migration-to-hugo/">迁移博客到 Hugo 遇到的坑</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/my-second-post/">My Second Post</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/my-first-post/">My First Post</a></li>
+		</ul>
+	</div>
+</div>
+</aside>
 		</div>
 		<footer class="footer">
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2023 John Doe.
+			&copy; 2023 Lveank.
 			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
 		</div>
 	</div>

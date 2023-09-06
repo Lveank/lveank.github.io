@@ -6,14 +6,25 @@
     <description>Recent content on Lveank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2023 21:14:12 +0800</lastBuildDate><atom:link href="https://lveank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 18:51:58 +0800</lastBuildDate><atom:link href="https://lveank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>迁移博客到 Hugo 遇到的坑</title>
+      <link>https://lveank.github.io/post/trap-in-migration-to-hugo/</link>
+      <pubDate>Wed, 06 Sep 2023 18:51:58 +0800</pubDate>
+      
+      <guid>https://lveank.github.io/post/trap-in-migration-to-hugo/</guid>
+      <description>参考 Issue： quickstart documentation refers to hugo.toml instead of config.toml #11250
+新版 Hugo（v0.112.0 以上）的配置文件已经改名为 hugo.toml，如果你使用了 Linux 发行版的包管理器安装了旧版的 Hugo（比如 apt 的 v0.92.2+extended），那么按照文档的 Quickstart 中的：
+echo &amp;#34;theme = &amp;#39;ananke&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml 并不能成功指定主题。旧版 Hugo的配置文件是 config.toml。</description>
+    </item>
+    
     <item>
       <title>My Second Post</title>
       <link>https://lveank.github.io/post/my-second-post/</link>
       <pubDate>Tue, 05 Sep 2023 21:14:12 +0800</pubDate>
       
       <guid>https://lveank.github.io/post/my-second-post/</guid>
-      <description></description>
+      <description>Test Article A key configuration parameter within Hugo is the baseURL — this may get hardcoded into the static content at site generation time and if it is incorrect, some site assets may not load. As the baseURL differs between the different deployments, a different baseURL can be defined in each environment. Note that if using the Amplify endpoints, it will be necessary to set up the application in Amplify first and then set the baseURL for the different environment as this cannot be known a priori; this will get picked up by Amplify when pushed to the repository.</description>
     </item>
     
     <item>
@@ -22,7 +33,7 @@
       <pubDate>Tue, 05 Sep 2023 20:46:57 +0800</pubDate>
       
       <guid>https://lveank.github.io/post/my-first-post/</guid>
-      <description>Head 01 Head 02 Contents&amp;hellip;</description>
+      <description>Start with Head2 Contents&amp;hellip;</description>
     </item>
     
   </channel>

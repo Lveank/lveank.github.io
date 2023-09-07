@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Lveank</title>
+    <link>https://lveank.github.io/page/</link>
+    <description>Recent content in Pages on Lveank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 07 Sep 2023 18:50:24 +0800</lastBuildDate><atom:link href="https://lveank.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230907</title>
+      <link>https://lveank.github.io/page/news/20230907/</link>
+      <pubDate>Thu, 07 Sep 2023 18:50:24 +0800</pubDate>
+      
+      <guid>https://lveank.github.io/page/news/20230907/</guid>
+      <description>News Test 02 Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite theme.</description>
+    </item>
+    
+    <item>
+      <title>20230906</title>
+      <link>https://lveank.github.io/page/news/20230906/</link>
+      <pubDate>Wed, 06 Sep 2023 23:34:46 +0800</pubDate>
+      
+      <guid>https://lveank.github.io/page/news/20230906/</guid>
+      <description>Tropical Storm Lee is expected to rapidly intensify into an “extremely dangerous” hurricane in the Atlantic Ocean by this weekend, the National Hurricane Center said Wednesday morning, as the season approaches its[ typical early September](https://www.cnn.com/2022/09/15/weather/anatomy-of-a-hurricane-xpn/index.html#:~:text=Risk of Atlantic storms peaks in early September&amp;amp;text=There is combined 76% chance,data from 1944 through 2020.) [peak](https://www.cnn.com/2022/09/15/weather/anatomy-of-a-hurricane-xpn/index.html#:~:text=Risk of Atlantic storms peaks in early September&amp;amp;text=There is combined 76% chance,data from 1944 through 2020.).</description>
+    </item>
+    
+  </channel>
+</rss>

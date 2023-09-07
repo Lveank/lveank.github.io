@@ -5,17 +5,43 @@
     <link>https://lveank.github.io/</link>
     <description>Recent content on Lveank</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2023 18:51:58 +0800</lastBuildDate><atom:link href="https://lveank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 07 Sep 2023 18:50:24 +0800</lastBuildDate><atom:link href="https://lveank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230907</title>
+      <link>https://lveank.github.io/page/news/20230907/</link>
+      <pubDate>Thu, 07 Sep 2023 18:50:24 +0800</pubDate>
+      
+      <guid>https://lveank.github.io/page/news/20230907/</guid>
+      <description>News Test 02 Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite theme.</description>
+    </item>
+    
+    <item>
+      <title>20230906</title>
+      <link>https://lveank.github.io/page/news/20230906/</link>
+      <pubDate>Wed, 06 Sep 2023 23:34:46 +0800</pubDate>
+      
+      <guid>https://lveank.github.io/page/news/20230906/</guid>
+      <description>Tropical Storm Lee is expected to rapidly intensify into an “extremely dangerous” hurricane in the Atlantic Ocean by this weekend, the National Hurricane Center said Wednesday morning, as the season approaches its[ typical early September](https://www.cnn.com/2022/09/15/weather/anatomy-of-a-hurricane-xpn/index.html#:~:text=Risk of Atlantic storms peaks in early September&amp;amp;text=There is combined 76% chance,data from 1944 through 2020.) [peak](https://www.cnn.com/2022/09/15/weather/anatomy-of-a-hurricane-xpn/index.html#:~:text=Risk of Atlantic storms peaks in early September&amp;amp;text=There is combined 76% chance,data from 1944 through 2020.).</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lveank.github.io/about/</link>
+      <pubDate>Wed, 06 Sep 2023 23:33:40 +0800</pubDate>
+      
+      <guid>https://lveank.github.io/about/</guid>
+      <description>Python
+Linux</description>
+    </item>
+    
     <item>
       <title>迁移博客到 Hugo 遇到的坑</title>
       <link>https://lveank.github.io/post/trap-in-migration-to-hugo/</link>
       <pubDate>Wed, 06 Sep 2023 18:51:58 +0800</pubDate>
       
       <guid>https://lveank.github.io/post/trap-in-migration-to-hugo/</guid>
-      <description>参考 Issue： quickstart documentation refers to hugo.toml instead of config.toml #11250
-新版 Hugo（v0.112.0 以上）的配置文件已经改名为 hugo.toml，如果你使用了 Linux 发行版的包管理器安装了旧版的 Hugo（比如 apt 的 v0.92.2+extended），那么按照文档的 Quickstart 中的：
-echo &amp;#34;theme = &amp;#39;ananke&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml 并不能成功指定主题。旧版 Hugo的配置文件是 config.toml。</description>
+      <description>参考 Issue： quickstart documentation refers to hugo.toml instead of config.toml #11250 新版 Hugo（v0.112.0 以上）的配置文件已经改名为 hugo.toml，如果你使用了 Linux 发行版的包管理器</description>
     </item>
     
     <item>

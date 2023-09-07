@@ -5,7 +5,7 @@
     <link>https://lveank.github.io/post/</link>
     <description>Recent content in Posts on Lveank</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
     <lastBuildDate>Wed, 06 Sep 2023 18:51:58 +0800</lastBuildDate><atom:link href="https://lveank.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>迁移博客到 Hugo 遇到的坑</title>
@@ -13,9 +13,7 @@
       <pubDate>Wed, 06 Sep 2023 18:51:58 +0800</pubDate>
       
       <guid>https://lveank.github.io/post/trap-in-migration-to-hugo/</guid>
-      <description>参考 Issue： quickstart documentation refers to hugo.toml instead of config.toml #11250
-新版 Hugo（v0.112.0 以上）的配置文件已经改名为 hugo.toml，如果你使用了 Linux 发行版的包管理器安装了旧版的 Hugo（比如 apt 的 v0.92.2+extended），那么按照文档的 Quickstart 中的：
-echo &amp;#34;theme = &amp;#39;ananke&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml 并不能成功指定主题。旧版 Hugo的配置文件是 config.toml。</description>
+      <description>参考 Issue： quickstart documentation refers to hugo.toml instead of config.toml #11250 新版 Hugo（v0.112.0 以上）的配置文件已经改名为 hugo.toml，如果你使用了 Linux 发行版的包管理器</description>
     </item>
     
     <item>
